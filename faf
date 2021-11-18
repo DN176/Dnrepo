@@ -1,0 +1,46 @@
+[33mcommit 06567d1b0d19cfd8d78e5984db4a3453228fb455[m[33m ([m[1;36mHEAD -> [m[1;32mnew[m[33m, [m[1;31morigin/new[m[33m, [m[1;32mmybranch[m[33m)[m
+Author: DN <dn.ducat@gmail.com>
+Date:   Thu Nov 18 11:15:44 2021 +0000
+
+    newbranch commit
+
+ finenew | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit a52207bdcfed99b10ddea8b5a9359fcfe45592d3[m[33m ([m[1;32mmaster[m[33m)[m
+Author: DN <dn.ducat@gmail.com>
+Date:   Thu Nov 18 11:08:33 2021 +0000
+
+    dnfile
+
+ filedn   | 0
+ saifile1 | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit 085ccab30d320749e8e8d730f8195c46c5ff3116[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: DN <dn.ducat@gmail.com>
+Date:   Tue Nov 16 07:20:14 2021 +0000
+
+    saifile
+
+ saifile | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit 46cb637d6c449e3d66de22e04c43901eb459f6e2[m
+Author: DN <dn.ducat@gmail.com>
+Date:   Tue Nov 16 06:58:33 2021 +0000
+
+    dn second commit
+
+ file2 | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
+
+[33mcommit 657192db8214ab535af42b7801d3b69f9cee78d6[m
+Author: DN <dn.ducat@gmail.com>
+Date:   Tue Nov 16 06:52:09 2021 +0000
+
+    dnrepo commit
+
+ dnrepo | 0
+ file1  | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
